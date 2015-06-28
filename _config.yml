@@ -25,7 +25,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no" # to be verified
 organizerName: "GDG Warsaw"
 organizerAlternateName: "Google Developer Group Warsaw"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "devfest.warsaw@gmail.com"
+organizerEmail: "ask@devfest.pl"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdg.warszawa.pl/"
 
@@ -44,12 +44,12 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/schedule/#Workshops", text: "Workshops"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/schedule/#Workshops", text: "Workshops"}
  - {permalink: "/#venue", text: "Venue"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -63,7 +63,7 @@ typeoutTextValues: '"", "Season", "Poland", "Warsaw"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+# - {permalink: "/#tickets", text: "Buy tickets"} # to be changed later
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -164,7 +164,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:devfest.warsaw@gmail.com", text: "devfest.warsaw@gmail.com"}
+   - {link: "mailto:ask@devfest.pl", text: "ask@devfest.pl"}
  -
   title: "FAQ"
   links:
