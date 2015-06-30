@@ -47,7 +47,7 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/schedule/#Workshops", text: "Workshops"}
- - {permalink: "/#venue", text: "Venue"}
+ - {permalink: "/#location-map", text: "Venue"}
  - {permalink: "/team/", text: "Team"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
