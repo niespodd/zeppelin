@@ -37,23 +37,23 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p" # to be verified later
+c4pUrl: "http://goo.gl/forms/lY8XJmhZWr"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+# - {permalink: "/", text: "Home"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/schedule/#Workshops", text: "Workshops"}
- - {permalink: "/#location-map", text: "Venue"}
- - {permalink: "/team/", text: "Team"}
+# - {permalink: "/#location-map", text: "Venue"}
+# - {permalink: "/team/", text: "Team"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/lY8XJmhZWr", text: "Call for papers"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/lY8XJmhZWr", text: "Call for papers"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +62,7 @@ eventDate: "October, 2015"
 typeoutTextValues: '"", "Season", "Poland", "Warsaw"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/lY8XJmhZWr", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"} # to be changed later
 
 # About Block
