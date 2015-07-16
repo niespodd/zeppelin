@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Season 2015"
 email: "devfest.warsaw@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://niespodd.github.io"
+baseurl: "/"
+url: "http://devfest.pl"
 permalink: "/blog/:title"
 
 googleAnalyticsTrackingId: "UA-64584752-1"

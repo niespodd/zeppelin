@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://niespodd.github.io/zeppelin/blog/</loc>
+    <loc>http://devfest.pl//blog/</loc>
   </url>
   <url>
-    <loc>https://niespodd.github.io/zeppelin/cod/</loc>
+    <loc>http://devfest.pl//cod/</loc>
   </url>
   <url>
-    <loc>https://niespodd.github.io/zeppelin/hackathon/</loc>
+    <loc>http://devfest.pl//hackathon/</loc>
   </url>
   <url>
-    <loc>https://niespodd.github.io/zeppelin/</loc>
+    <loc>http://devfest.pl//</loc>
   </url>
   <url>
-    <loc>https://niespodd.github.io/zeppelin/logistics/</loc>
+    <loc>http://devfest.pl//logistics/</loc>
   </url>
   <url>
-    <loc>https://niespodd.github.io/zeppelin/schedule/</loc>
+    <loc>http://devfest.pl//schedule/</loc>
   </url>
   <url>
-    <loc>https://niespodd.github.io/zeppelin/speakers/</loc>
+    <loc>http://devfest.pl//speakers/</loc>
   </url>
   <url>
-    <loc>https://niespodd.github.io/zeppelin/team/</loc>
+    <loc>http://devfest.pl//team/</loc>
   </url>
 </urlset>
