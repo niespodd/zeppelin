@@ -63,6 +63,7 @@ typeoutTextValues: '"", "Season", "Poland", "Warsaw"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://goo.gl/forms/lY8XJmhZWr", text: "Become a speaker"}
+ - {link: "/#subscribe", text: "Subscribe (for attendees)"}
 # - {permalink: "/#tickets", text: "Buy tickets"} # to be changed later
 
 # About Block
