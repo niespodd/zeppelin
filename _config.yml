@@ -8,9 +8,8 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
-title: "GDG DevFest Season 2015"
+title: "GDG DevFest Season 2015 in Poland"
 email: "devfest.warsaw@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
@@ -25,20 +24,20 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no" # to be verified
 organizerName: "GDG Warsaw"
 organizerAlternateName: "Google Developer Group Warsaw"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "ask@devfest.pl"
+organizerEmail: "devfest.warsaw@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdg.warszawa.pl/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, warsaw, 2015"
-twitterAccount: "@DevFest15"
+twitterAccount: "@DevFest15" 
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://goo.gl/forms/lY8XJmhZWr"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf" # to be verified later
 
 
 # Navigation
@@ -51,20 +50,21 @@ navigationLinks:
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
+ - {link: "/#tickets", text: "Buy tickets"}
  - {link: "http://goo.gl/forms/lY8XJmhZWr", text: "Call for papers"}
 rightNavigationButtons:
+ - {link: "/#tickets", text: "Buy tickets"}
  - {link: "http://goo.gl/forms/lY8XJmhZWr", text: "Call for papers"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2015"
-eventDate: "October, 2015"
-typeoutTextValues: '"", "Season", "Poland", "Warsaw"'
+heroTitle: "GDG DevFest <typeout>"
+eventDate: "28. November 2015"
+typeoutTextValues: '"", "Season 2015", "Poland", "Warsaw"'
 typeoutFallback: "Season"
-heroButtons:
+heroButtons: 
  - {link: "http://goo.gl/forms/lY8XJmhZWr", text: "Become a speaker"}
- - {link: "/#subscribe", text: "Subscribe (for attendees)"}
-# - {permalink: "/#tickets", text: "Buy tickets"} # to be changed later
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -92,9 +92,9 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Faculty of Mathematics and Information Science"
-eventLocationLink: "http://www.mini.pw.edu.pl/"
-eventStreetAddress: "Koszykowa 75"
+eventLocationName: "Iluzjon Cinema"
+eventLocationLink: ""
+eventStreetAddress: "Ludwika Narbutta 50A"
 eventAddressLocality: "Warsaw"
 eventAddressLocalityRegion: "Mazowieckie"
 eventPostalCode: "00-662"
@@ -102,17 +102,14 @@ eventAddressCountry: "Poland"
 eventStartTime: "2015-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "52.2221195,21.0071594"
-mapCenterCoordinates: "52.2221195,21.0071594"
-mapMobileCenterCoordinates: "52.2221195,21.0071594"
+eventPlaceCoordinates: "52.2055361755,21.0108585884"
+mapCenterCoordinates: "52.2055361755,21.0108585884"
+mapMobileCenterCoordinates: "52.2055361755,21.0108585884"
 
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Faculty of Mathematics and Information Science"
+venueTitle: "Iluzjon Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located in the city center"] # to be furfilled later
 
 # Tweets Feed Block
@@ -133,15 +130,15 @@ subscribeAction: "http://mc.us11.list-manage.com/subscribe/post?u=ba9cbec0a18fe1
 subscribeInfo: "Registration will be open soon. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Tickets"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Regular"
-  price: "50"
+  price: "30"
   priceCurrency: "PLN"
-  ticketsNumber: "300"
-  buyButtonLink: "http://dfua.ticketforevent.com/" # to be furfiled later
+  ticketsNumber: ""
+  buyButtonLink: "http://devfest2015.evenea.pl/" 
   buyButtonText: "Buy Now"
   additionalInfo: ""
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -149,6 +146,19 @@ ticketsOffers:
   validThrough: "2015-10-10T23:59"
   soldOut: false
   soldOutText: "Sold Out"
+ -
+  name: "Student"
+  price: "10"
+  priceCurrency: "PLN"
+  ticketsNumber: ""
+  buyButtonLink: "http://devfest2015.evenea.pl/" # to be furfiled later
+  buyButtonText: "Buy Now"
+  additionalInfo: "requires valid student ID"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2015-07-01T10:00"
+  validThrough: "2015-10-10T23:59"
+  soldOut: false
+  soldOutText: "Sold Out"  
 
 # Footer
 socialLinks:
